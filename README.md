@@ -1,8 +1,5 @@
 ### Hi Welcome, I'm Carlos 👋
 
-<!--
-**klich1984/klich1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Carlos Usuga Martinez</h1>
 <h3 align="center">I am passionate about life and technology.</h3>
 <h3Constant learning, that is my motto and my main value is willpower.</h3>
