@@ -1,8 +1,8 @@
-### Hi Welcome, I'm Carlos 👋
+### Hi Welcome.
 
 <h1 align="center">Hi 👋, I'm Carlos Usuga Martinez</h1>
 <h3 align="center">I am passionate about life and technology.</h3>
-<h3Constant learning, that is my motto and my main value is willpower.</h3>
+<h3 align="left"Constant learning, that is my motto and my main value is willpower.</h3>
 
 <p align="left"> <a href="https://twitter.com/usuga_martinez" target="blank"><img src="https://img.shields.io/twitter/follow/usuga_martinez?logo=twitter&style=for-the-badge" alt="usuga_martinez" /></a> </p>
 
@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/usuga_martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="usuga_martinez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/carlos-usuga-martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="carlos-usuga-martinez" height="30" width="40" /></a>
+<a href="https://twitter.com/usuga_martinez" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="usuga_martinez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlos-usuga-martinez" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="carlos-usuga-martinez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
