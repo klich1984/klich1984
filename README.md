@@ -1,10 +1,9 @@
 ### Hi Welcome.
 
-<h1 align="center">Hi 👋, I'm Carlos Usuga Martinez</h1>
+<h1 align="center">👋, I'm Carlos Usuga Martinez</h1>
 <h3 align="center">I am passionate about life and technology.</h3>
 <h3 align="left"Constant learning, that is my motto and my main value is willpower.</h3>
 
-<p align="left"> <a href="https://twitter.com/usuga_martinez" target="blank"><img src="https://img.shields.io/twitter/follow/usuga_martinez?logo=twitter&style=for-the-badge" alt="usuga_martinez" /></a> </p>
 
 - 🌱 I’m currently learning **JS, Arduino**
 
