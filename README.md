@@ -5,11 +5,11 @@
 <h3 align="left"Constant learning, that is my motto and my main value is willpower.</h3>
 
 
-- 🌱 I’m currently learning **JS, Arduino**
+- 🌱 I’m currently learning **JS, React**
 
 - 👯 I’m looking to collaborate on **a project in which I can exploit my skills and grow professionally and personally.**
 
-- 💬 I have been learning during the past few months **Bash, C, Python, MysSQL, HTML, CCS.**
+- 💬 I have been learning during the past few months **Bash, C, Python, MysSQL, HTML, CCS, React., LitElement**
 
 - 📫 How to reach me **klich84@gmail.com**
 
